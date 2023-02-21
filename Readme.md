@@ -1,4 +1,4 @@
-## PRIA Práctica p0.-Batalla por consola en C#
+# PRIA Práctica p0.-Batalla por consola en C#
 
 Crear 2 listas (1 equipo azul, 1 equipo vermello)  
 Crear 2 clases: Guerrero, Arquero  
